@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+dist
+src/lib
+OrbitControls.js
+src/icons/iconfont/iconfont.js
